@@ -1,0 +1,12 @@
+[user]
+	name = Hector Gonzalez
+	email = gorozco.hector@gmail.com
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[pull]
+	f = only
+	ff = only
+[core]
+	excludesfile = /Users/lertir/.gitignore_global
