@@ -166,6 +166,6 @@ endif
 set clipboard=unnamed
 
 
-## enable emmet only for html/css
+" enable emmet only for html/css
 let g:user_emmet_install_global = 0
 autocmd FileType html,css EmmetInstall
